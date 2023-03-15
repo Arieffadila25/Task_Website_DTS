@@ -125,6 +125,10 @@ form {
     padding: 15px 35px;
 }
 
+.reverse{
+    flex-direction: row-reverse;
+}
+
 .text-konten{
     width: 50%;
 }
